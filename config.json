@@ -1,0 +1,6 @@
+{
+  "target_directories": [
+    "%TEMP%",
+    "%APPDATA%/discord/Cache"
+  ]
+}

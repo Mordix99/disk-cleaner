@@ -1,0 +1,11 @@
+# Środowisko wirtualne
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
