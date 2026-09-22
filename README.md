@@ -32,3 +32,10 @@ Target directories are managed via `config.json`:
     "%APPDATA%/discord/Cache"
   ]
 }
+```
+## USAGE 
+
+```powershell
+# Run the script directly
+python cleaner.py
+```
